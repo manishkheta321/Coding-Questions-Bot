@@ -1,0 +1,163 @@
+[
+  {
+    "Question": "Subarray with given sum ",
+    "Description": "Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number S.",
+    "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
+    "Companys": "\n                        \n                           Adobe     Amazon     Facebook     FactSet     Google     Morgan Stanley     Visa     Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Prefix-sum     Searching     Sliding-window                          \n                    "
+  },
+  {
+    "Question": "Count the triplets ",
+    "Description": "Count the triplets ",
+    "link": "https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1",
+    "Companys": "\n                        \n                           Amazon     Arcesium                          \n                    ",
+    "Tags": "\n                        \n                           Sorting     Two-pointer-algorithm                          \n                    "
+  },
+  {
+    "Question": "Kadane's Algorithm ",
+    "Description": "Given an array arr of N integers. Find the contiguous sub-array with maximum sum.",
+    "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+    "Companys": "\n                        \n                           24*7 Innovation Labs     Accolite     Amazon     Citrix     D-E-Shaw     FactSet     Flipkart     Hike     Housing.com     MakeMyTrip     MetLife     Microsoft     Morgan Stanley     Ola Cabs     Oracle     OYO Rooms     Payu     Samsung     Snapdeal     Teradata     Visa     VMWare     Walmart     Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Dynamic Programming                          \n                    "
+  },
+  {
+    "Question": "Missing number in array ",
+    "Description": "Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.",
+    "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
+    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     Cisco     D-E-Shaw     Intuit      Microsoft     Morgan Stanley     Ola Cabs     Payu     Qualcomm     Visa                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Bit Magic     Searching                          \n                    "
+  },
+  {
+    "Question": "Merge Without Extra Space ",
+    "Description": "Given two sorted arrays arr1[] of size N and arr2[] of size M. Each array is sorted in non-decreasing order. Merge the two arrays into one sorted array in non-decreasing order without using any extra space.",
+    "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+    "Companys": "\n                        \n                           Amazon     Amdocs     Brocade     FactSet     Goldman Sachs     Juniper Networks     Linkedin     Microsoft     Quikr     Snapdeal     Synopsys     Visa     Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Mathematical     Sorting                          \n                    "
+  },
+  {
+    "Question": "Rearrange Array Alternately ",
+    "Description": "Given a sorted array of positive integers. Your task is to rearrange  the array elements alternatively i.e first element should be max value, second should be min value, third should be second max, fourth should be second min and so on...",
+    "link": "https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/",
+    "Companys": "\n                        \n                           Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  },
+  {
+    "Question": "Number of pairs ",
+    "Description": "Given two arrays X[] and Y[] of size M and N respectively. Find number of pairs such that xy > yx where x is an element from X[] and y is an element from Y[].",
+    "link": "https://practice.geeksforgeeks.org/problems/number-of-pairs3422/1",
+    "Companys": "\n                        \n                           FactSet                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Sorting                          \n                    "
+  },
+  {
+    "Question": "Inversion of array ",
+    "Description": "Given an array of positive integers. The task is to find inversion count of array.",
+    "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0/",
+    "Companys": "\n                        \n                           Adobe     Amazon     BankBazaar     Flipkart     Microsoft     Myntra     Ola Cabs     Walmart                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Sorting                          \n                    "
+  },
+  {
+    "Question": "Sort an array of 0s, 1s and 2s ",
+    "Description": "Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.",
+    "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+    "Companys": "\n                        \n                           Adobe     Amazon     Hike     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Ola Cabs     OYO Rooms     Paytm     Qualcomm     Samsung     SAP Labs     Snapdeal     Walmart     Yatra.com                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Sorting                          \n                    "
+  },
+  {
+    "Question": "Equilibrium point ",
+    "Description": "Given an array A of N positive numbers. The task is to find the position where equilibrium first occurs in the array. Equilibrium position in an array is a position such that the sum of elements before it is equal to the sum of elements after it.",
+    "link": "https://practice.geeksforgeeks.org/problems/equilibrium-point/0",
+    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     Hike     Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Prefix-sum                          \n                    "
+  },
+  {
+    "Question": "Leaders in an array ",
+    "Description": "Given an array of positive integers. Your task is to find the leaders in the array.\nNote: An element of array is leader if it is greater than or equal to all the elements to its right side. Also, the rightmost element is always a leader. ",
+    "link": "https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0",
+    "Companys": "\n                        \n                           Amazon     Payu     Samsung                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Searching                          \n                    "
+  },
+  {
+    "Question": "Minimum Platforms ",
+    "Description": "Given arrival and departure times of all trains that reach a railway station. Your task is to find the minimum number of platforms required for the railway station so that no train waits.",
+    "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+    "Companys": "\n                        \n                           Accolite     Amazon     Boomerang Commerce     D-E-Shaw     Directi     Hike     Morgan Stanley     OYO Rooms     Paytm     Walmart     Zillious                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Greedy                          \n                    "
+  },
+  {
+    "Question": "Reverse array in groups ",
+    "Description": "Given an array arr[] of positive integers of size N. Reverse every sub-array of K group elements.",
+    "link": "https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0",
+    "Companys": "\n                        \n                           Amazon                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  },
+  {
+    "Question": "Kth smallest element ",
+    "Description": "Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.",
+    "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+    "Companys": "\n                        \n                           ABCO     Accolite     Amazon     Cisco     Hike     Microsoft     Snapdeal     VMWare                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Searching     Sorting                          \n                    "
+  },
+  {
+    "Question": "Trapping Rain Water ",
+    "Description": "Given an array arr[] of N non-negative integers representing height of blocks at index i as Ai where the width of each block is 1. Compute how much water can be trapped in between blocks after raining.\nStructure is like below:\n|  |\n|_|\nWe can trap 2 units of water in the middle gap.",
+    "link": "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
+    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     Paytm     Payu                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  },
+  {
+    "Question": "Pythagorean Triplet ",
+    "Description": "Given an array arr of N integers, write a function that returns true if there is a triplet (a, b, c) that satisfies a2 + b2 = c2, otherwise false.",
+    "link": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1",
+    "Companys": "\n                        \n                           Amazon                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  },
+  {
+    "Question": "Chocolate Distribution Problem ",
+    "Description": "Given an array A of positive integers of size N, where each value represents number of chocolates in a packet. Each packet can have variable number of chocolates. There are M students, the task is to distribute chocolate packets such that :",
+    "link": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+    "Companys": "\n                        \n                           Flipkart                          \n                    ",
+    "Tags": "\n                        \n                           Sorting                          \n                    "
+  },
+  {
+    "Question": "Stock buy and sell ",
+    "Description": "The cost of stock on each day is given in an array A[] of size N. Find all the days on which you buy and sell the stock so that in between those days your profit is maximum.",
+    "link": "https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0",
+    "Companys": "\n                        \n                           Accolite     Amazon     D-E-Shaw     Directi     Facebook     Flipkart     Goldman Sachs     Hike     Intuit      MakeMyTrip     Microsoft     Morgan Stanley     Ola Cabs     Oracle     Paytm     Pubmatic     Quikr     Salesforce     Samsung     SAP Labs     Sapient     Swiggy     Walmart                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  },
+  {
+    "Question": "Element with left side smaller and right side greater ",
+    "Description": "Given an unsorted array of size N. Find the first element in array such that all of its left elements are smaller and all right elements to it are greater than it.\n\nNote: Left and right side elements can be equal to required element. And extreme elements cannot be required element.",
+    "link": "https://practice.geeksforgeeks.org/problems/unsorted-array/0",
+    "Companys": "\n                        \n                           Amazon     Intuit      OYO Rooms     Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  },
+  {
+    "Question": "Convert array into Zig-Zag fashion ",
+    "Description": "Given an array Arr (distinct elements) of size N. Rearrange the elements of array in zig-zag fashion. The converted array should be in form a < b > c < d > e < f. The relative order of elements is same in the output i.e you have to iterate on the original array only.",
+    "link": "https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1",
+    "Companys": "\n                        \n                           Amazon     Paytm                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  },
+  {
+    "Question": "Last index of One ",
+    "Description": "Given a string S consisting only '0's and '1's,  print the last index of the '1' present in it.",
+    "link": "https://practice.geeksforgeeks.org/problems/last-index-of-1/0",
+    "Companys": "\n                        \n                           InMobi                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Searching                          \n                    "
+  },
+  {
+    "Question": "Spirally traversing a matrix ",
+    "Description": "Given a matrix mat[][] of size M*N. Traverse and print the matrix in spiral form.",
+    "link": "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
+    "Companys": "\n                        \n                           Accolite     Adobe     Amazon     BrowserStack     D-E-Shaw     FactSet     MakeMyTrip     MAQ Software     Microsoft     Morgan Stanley     Nagarro     Nearbuy     Oracle     OYO Rooms     Paytm     Salesforce     Snapdeal     Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays     Matrix                          \n                    "
+  },
+  {
+    "Question": "Largest Number formed from an Array ",
+    "Description": "Given a list of non negative integers, arrange them in such a manner that they form the largest number possible.The result is going to be very large, hence return the result in the form of a string.",
+    "link": "https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1",
+    "Companys": "\n                        \n                           Amazon     MakeMyTrip     Microsoft     Paytm     Zoho                          \n                    ",
+    "Tags": "\n                        \n                           Arrays                          \n                    "
+  }
+]
