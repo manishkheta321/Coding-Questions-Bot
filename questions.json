@@ -1,0 +1,25 @@
+[
+	{
+		"Question" : "Kadane's Algorithm",
+		"Description" : "Given an array arr of N integers. Find the contiguous sub-array with maximum sum.",
+		"Url" : "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+		"Companies Asked" : "`Samsung` `Snapdeal` `Walmart` `Amazon`",
+		"Tags" : "`Arrays` `Dynamic Programming`"
+	},
+	
+	{
+		"Question" : "Missing Number In Array",
+		"Description" : "Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.",
+		"Url" : "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
+		"Companies Asked" : "`Adobe` `Amazon` `Cisco` `Intuit`",
+		"Tags" : "`Arrays` `Bit Magic` `Searching`"
+	},
+
+	{
+		"Question" : "Sort an array of 0's, 1's and 2's",
+		"Description" : "Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.",
+		"Url" : "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+		"Companies Asked" : "`Adobe` `Amazon` `Hike` `MakeMyTrip`",
+		"Tags" : "`Arrays` `Sorting`"
+	}
+]
